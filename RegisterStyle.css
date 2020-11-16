@@ -1,0 +1,53 @@
+/*Selector {
+	Property: value;
+}*/
+
+body {
+	background-image: url(https://149493502.v2.pressablecdn.com/wp-content/uploads/2020/06/macOS-Big-Sur-wallpaper-2560x1440-1.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 300%;
+	text-align: center;
+}
+
+button {
+	font-size: 160%;
+}
+
+select {
+	font-size: 130%;
+}
+
+form {
+	font-size: 160%
+}
+
+input {
+	font-size: 160%
+}
+
+.submit1:hover {
+	border: 6px solid rgb(0,201,255);
+}
+
+.reset1:hover {
+	border: 6px solid rgb(0,201,255);
+}
+
+.Goback {
+	color: blue;
+	font-size: 60px;
+}
+
+.Goback:hover {
+	color: black;
+}
+
+.ImgAcesters {
+	float: left;
+}
+
+input {
+	font-size: 70%
+}

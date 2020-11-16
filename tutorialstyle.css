@@ -1,0 +1,91 @@
+body {
+	margin: 0px;
+	font-size: 130%;
+}
+
+
+.titler {
+	font-family: 'Playfair Display', serif;
+	border-bottom: 10px solid red;
+	border-right: 10px solid red;
+	text-align: center;
+	font-size: 300%;
+	width: 400px;
+	-moz-box-shadow: 4px 4px 5px #888888;
+	box-shadow: 4px 4px 5px #888888;
+	margin: 10px
+}
+
+
+.tutorials {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	flex-direction: row;
+	flex-flow: row nowrap;
+	width: 110%;
+	height: 200px;
+	align-self: auto;
+	object-fit: cover;
+}
+
+.tutorial1:hover {
+	border: 9px solid rgb(0,201,255);
+	cursor: help;
+}
+
+.Goback {
+	color: blue;
+	font-size: 60px;
+	text-align: center;
+}
+
+.Goback:hover {
+	color: red;
+	cursor: copy;
+}
+
+.tutorial2:hover {
+	border: 9px solid rgb(0,201,255);
+	cursor: help;
+}
+
+.line {
+	border-bottom: 9px solid red
+}
+
+.under {
+	font-family: 'Playfair Display', serif;
+	font-size: 3em;
+	border-right: 10px solid red;
+	border-bottom: 10px solid red;
+	width: 300px;
+	-moz-box-shadow: 4px 4px 5px #888888;
+	box-shadow: 4px 4px 5px #888888;
+	margin: 10px
+}
+}
+
+.Videos {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	flex-direction: row;
+	flex-flow: row nowrap;
+	width: 110%;
+	height: 200px;
+	align-self: auto;
+	object-fit: cover;
+}
+
+.Strikeforce:hover {
+	border: 9px solid red
+}
+
+.bloons:hover {
+	border: 9px solid red;
+}
+
+.video1:hover {
+	border: 9px solid red;
+	transform: (1.1)
